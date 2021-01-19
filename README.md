@@ -14,3 +14,5 @@ Run `npm run start` and check that it works locally with postman
 
 * `heroku create`
 * `git push heroku master`
+
+Run [heroku link](https://radiant-chamber-47931.herokuapp.com/) and check that it works on heroku with postman
