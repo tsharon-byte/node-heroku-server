@@ -21,3 +21,4 @@ Run [heroku link](https://node-heroku-server.herokuapp.com/) and check that it w
 [usefull doc](https://devcenter.heroku.com/articles/renaming-apps)
 * `git remote rm heroku`
 * `heroku git:remote -a node-heroku-server`
+* `git push heroku`
