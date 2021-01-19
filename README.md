@@ -15,4 +15,9 @@ Run `npm run start` and check that it works locally with postman
 * `heroku create`
 * `git push heroku master`
 
-Run [heroku link](https://radiant-chamber-47931.herokuapp.com/) and check that it works on heroku with postman
+Run [heroku link](https://node-heroku-server.herokuapp.com/) and check that it works on heroku with postman
+
+## Rename heroku app name
+[usefull doc](https://devcenter.heroku.com/articles/renaming-apps)
+* `git remote rm heroku`
+* `heroku git:remote -a node-heroku-server`
